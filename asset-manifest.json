@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-wgtech/home.git/static/css/main.bf008e1b.css",
+    "main.js": "/portfolio-wgtech/home.git/static/js/main.de3d57c1.js",
+    "static/js/453.ed3810f9.chunk.js": "/portfolio-wgtech/home.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/portfolio-wgtech/home.git/index.html",
+    "main.bf008e1b.css.map": "/portfolio-wgtech/home.git/static/css/main.bf008e1b.css.map",
+    "main.de3d57c1.js.map": "/portfolio-wgtech/home.git/static/js/main.de3d57c1.js.map",
+    "453.ed3810f9.chunk.js.map": "/portfolio-wgtech/home.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf008e1b.css",
+    "static/js/main.de3d57c1.js"
+  ]
+}
